@@ -17,6 +17,6 @@
 Clone repositori ini dan jalankan skrip instalasi:
 
 ```bash
-git clone https://github.com/username/stav.git
+git clone https://github.com/Lubebansokhekel/stav.git
 cd stav
 bash install.sh
